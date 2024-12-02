@@ -2,8 +2,7 @@
 var template = `
     <ul>
         {{#data}}
-        <li>Name: {{name}}, Date: {{date}}, Class: {{class}}, 
-        Assignment: {{assignment}}, Description: {{description}} </li>
+        <li>Name: {{name}}, Date: {{date}}, Class: {{class}}, Assignment: {{assignment}}, Description: {{description}} </li>
         {{/data}}
     </ul>
 `;
