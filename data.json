@@ -1,17 +1,24 @@
 [
     {
-        "name": "RR",
-        "age": 35,
-        "city": "San Francisco"
+        "name": "Zachary S",
+        "date": "12/2/2024",
+        "class": "CS-3210-001",
+        "assignment": "Lab 9- Template Engine Lab",
+        "description": "This page is a static page created using a template file and designed to throw back
+        to MS-DOS."
     },
     {
-        "name": "Ann Ispen",
-        "age": 30,
-        "city": "Los Angeles"
+        "name": "This is Dummy 1",
+        "date": "12/2/2024",
+        "class": "CS-3210-001",
+        "assignment": "Lab 9- Template Engine Lab",
+        "description": "This is some dummy data."
     },
     {
-        "name": "Tom Hanks",
-        "age": 22,
-        "city": "Chicago"
-    }
+        "name": "This is Dummy 2",
+        "date": "12/2/2024",
+        "class": "CS-3210-001",
+        "assignment": "Hello World!",
+        "description": "I have gained sentience."
+    },
 ]
